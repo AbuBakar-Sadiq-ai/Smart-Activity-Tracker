@@ -1,4 +1,4 @@
-# 📊 Smart Daily Activity Tracker
+#  Smart Daily Activity Tracker
 
 <div align="center">
 
