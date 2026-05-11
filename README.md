@@ -58,7 +58,7 @@ The application provides an intuitive dashboard with real-time analytics, visual
 - **Password Hashing**: Secure password storage using industry-standard hashing
 - **Secure Authentication**: Protection against unauthorized access
 
-### 📿 Namaz (Prayer) Tracker
+###  Namaz (Prayer) Tracker
 Track the five daily Islamic prayers plus Qaza (makeup prayers):
 - **Fajr** - Dawn prayer
 - **Zuhar** - Noon prayer
@@ -74,7 +74,7 @@ Track the five daily Islamic prayers plus Qaza (makeup prayers):
 - ✓ Prayer history and records
 - ✓ Weekly and monthly statistics
 
-### 📚 Study Tracker
+###  Study Tracker
 Comprehensive academic progress tracking system:
 - Track university-enrolled subjects
 - Record daily study completion
@@ -89,7 +89,7 @@ Comprehensive academic progress tracking system:
 - ✓ Historical records
 - ✓ Performance analytics
 
-### 💡 Skills Tracker
+###  Skills Tracker
 Professional skill development tracking:
 - Add and monitor new skills
 - Mark completed milestones
@@ -103,7 +103,7 @@ Professional skill development tracking:
 - ✓ Achievement tracking
 - ✓ Historical data maintenance
 
-### 📈 Dashboard & Analytics
+###  Dashboard & Analytics
 Personalized user dashboard featuring:
 - **Overall Productivity Score**: Aggregate performance metrics
 - **Namaz Analytics**: Prayer completion insights
@@ -115,7 +115,7 @@ Personalized user dashboard featuring:
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 ### **Frontend**
 | Technology | Purpose |
