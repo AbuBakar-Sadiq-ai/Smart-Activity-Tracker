@@ -26,8 +26,6 @@
 - [Usage Instructions](#-usage-instructions)
 - [Security Features](#-security-features)
 - [Future Enhancements](#-future-enhancements)
-- [Screenshots](#-screenshots)
-- [Contributors](#-contributors)
 - [License](#-license)
 - [Conclusion](#-conclusion)
 
