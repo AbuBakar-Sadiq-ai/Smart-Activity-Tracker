@@ -1,0 +1,4 @@
+id,user_id,skill_date,skill_name,completed
+1,1,2026-04-01,Python,1
+2,1,2026-04-02,SQL,1
+3,2,2026-04-01,Machine Learning,0
