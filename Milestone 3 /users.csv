@@ -1,0 +1,4 @@
+id,name,email,password
+1,Ali,ali@gmail.com,hashed_password_1
+2,Ahmad,ahmad@gmail.com,hashed_password_2
+3,Usman,usman@gmail.com,hashed_password_3
